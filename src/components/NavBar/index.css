@@ -1,0 +1,12 @@
+.headers {
+  height: 48px;
+  line-height: 48px;
+  background-color: #fff;
+  display: flex;
+}
+.headers img {
+  height: 48px;
+}
+.headers .menu {
+  height: 48px;
+}

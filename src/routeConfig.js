@@ -17,22 +17,18 @@ export default [
       },
       {
         path: "/user",
-        redirect: true,
         component: User,
       },
       {
         path: "/profile",
-        redirect: true,
         component: Profile,
       },
       {
         path: "/register",
-        redirect: true,
         component: Register,
       },
       {
         path: "/login",
-        redirect: true,
         component: Login,
       },
     ],
